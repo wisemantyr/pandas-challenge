@@ -2,7 +2,7 @@
 
 This assignment asked to analyze district-wide standardized test results with related school information and aggregate the data to showcase obvious trends in school performance using pandas python library and Jupyter Notebook.
 
-Code original. Data provided. Outline of instructions provided - see HW_Instructions_PyCitySchools_starter.
+Code original. Data provided.
 
 <details>
   <summary><b>Full Assignment Description:</b></summary>
