@@ -1,11 +1,10 @@
 # pandas-challenge
 
-This assignment asked to analyze district-wide standardized test results with related school information and aggregate the data to showcase obvious trends in school performance using pandas python library and Jupyter Notebook.
+Analysis of trends in school performance using district-wide standardized test results and related school information.
 
 Code original. Data provided.
 
-<details>
-  <summary><b>Full Assignment Description:</b></summary>
+<b>Full Assignment Description:</b>
 
 <i>Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
@@ -102,5 +101,4 @@ Repeat the above breakdown, but this time group schools based on a reasonable <b
     <summary><b>Scores by School Type</b></summary>
 
 Repeat the above breakdown, but this time group schools based on <b>school type</b> (Charter vs. District).
-</details>
 </details>
